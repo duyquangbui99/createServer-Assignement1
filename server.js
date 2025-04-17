@@ -1,5 +1,5 @@
 const http = require('http');
-
+//mock data
 const products = [
     { id: 1, name: "Smartphone", category: "electronics" },
     { id: 2, name: "Laptop", category: "electronics" },
